@@ -1,0 +1,51 @@
+Here we will display your workout plan recording to your experience:
+
+Monday => Push Day:
+First  Exercise: Incline dumbell  press || 3 sets of 10 reps.
+Second Exercise: Flat Barbell press     || 3 sets of 10 reps.
+Third  Exercise: Chest Fly              || 3 sets of 12 reps.
+Fourth Exercise: Shoulder press         || 3 sets of 12 reps.
+Fifth  Exercise: Triceps Extension      || 3 sets of 12 reps.
+Sixth  Exercise: Skull crunchers        || 3 sets of 12 reps.
+
+Tuesday => Pull Day:
+First  Exercise: Barberll Rows       || 3 sets of 10 reps.
+Second Exercise: Latpull down        || 3 sets of 10 reps.
+Third  Exercise: Chest supported row || 3 sets of 12 reps.
+Fourth Exercise: Rear delt fly       || 3 sets of 12 reps.
+Fifth  Exercise: Preacher curl       || 3 sets of 12 reps.
+Sixth  Exercise: Hammer Curl         || 3 sets of 12 reps.
+
+Wednesday => Leg Day:
+First  Exercise: Barbell squat     || 3 sets of 8 reps.
+Second Exercise: Bulgarian spilt   || 3 sets of 12 reps.
+Third  Exercise: Romanian Deadlift || 3 sets of 8 reps.
+Fourth Exercise: Calf Raises       || 3 sets of 12 reps.
+Fifth  Exercise: Leg extension     || 3 sets of 12 reps.
+Sixth  Exercise: Lateral Raise     || 4 sets of 12 reps.
+
+Thursday => Push Day:
+First  Exercise: Incline dumbell  press || 3 sets of 10 reps.
+Second Exercise: Flat Barbell press     || 3 sets of 10 reps.
+Third  Exercise: Chest Fly              || 3 sets of 12 reps.
+Fourth Exercise: Shoulder press         || 3 sets of 12 reps.
+Fifth  Exercise: Triceps Extension      || 3 sets of 12 reps.
+Sixth  Exercise: Skull crunchers        || 3 sets of 12 reps.
+
+Friday => Pull Day:
+First  Exercise: Barberll Rows       || 3 sets of 10 reps.
+Second Exercise: Latpull down        || 3 sets of 10 reps.
+Third  Exercise: Chest supported row || 3 sets of 12 reps.
+Fourth Exercise: Rear delt fly       || 3 sets of 12 reps.
+Fifth  Exercise: Preacher curl       || 3 sets of 12 reps.
+Sixth  Exercise: Hammer Curl         || 3 sets of 12 reps.
+
+Saturday => Leg Day:
+First  Exercise: Barbell squat     || 3 sets of 8 reps.
+Second Exercise: Bulgarian spilt   || 3 sets of 12 reps.
+Third  Exercise: Romanian Deadlift || 3 sets of 8 reps.
+Fourth Exercise: Calf Raises       || 3 sets of 12 reps.
+Fifth  Exercise: Leg extension     || 3 sets of 12 reps.
+Sixth  Exercise: Lateral Raise     || 4 sets of 12 reps.
+
+Total calories burned: 1738cal

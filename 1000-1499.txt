@@ -1,0 +1,15 @@
+Meal Plan
+-------------------------------------------------------------------------------------------------------------------
+Choose 1 meal for each mealtime intervals
+
+Breakfast: 2 slice bread with 2 slices of tomato and salad  ||OR||  1 cup of low fat milk
+
+Lunch: 1 cup rice with one bowl vegetable soup and one grilled fish/chicken and mineral water 
+
+Dinner: 3 pieces whole grain crackers ||OR|| 1 glass of plain water/coffee/tea, no sugar ||OR|| 1 slice watermelon/papaya/honeydew
+
+Supper: 1 cup rice with 1/2 cup stir fried kale and 1 bowl tomyam chicken and 1 glass plain water
+
+Total calories = 1000 to 1499
+
+*These are recommendations based on Pinggan Sihat Malaysia

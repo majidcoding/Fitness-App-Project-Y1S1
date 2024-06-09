@@ -1,0 +1,18 @@
+Here we will display your workout plan recording to your experience:
+
+Monday => Upper body workout:
+First  Exercise: Bench Press       || 3 sets of 8 reps.
+Second Exercise: Barbell Row       || 3 sets of 8 reps.
+Third  Exercise: Shoulder Press    || 3 sets of 12 reps.
+Fourth Exercise: Bicep Curl        || 3 sets of 12 reps.
+Fifth  Exercise: Triceps extension || 3sets of 12 reps.
+Sixth  Exercise: Lateral raise     || 3 sets of 12 reps.
+
+Tuesday => Lower body workout:
+First  Exercise: Barbell squat     || 3 sets of 8 reps.
+Second Exercise: Bulgarian spilt   || 3 sets of 12 reps.
+Third  Exercise: Romanian Deadlift || 3 sets of 8 reps.
+Fourth Exercise: Calf Raises       || 3 sets of 12 reps.
+Fifth  Exercise: Leg extension     || 3 sets of 12 reps.
+
+Total calories burned: 544cal

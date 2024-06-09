@@ -1,0 +1,10 @@
+Here we will display your workout plan recording to your experience:
+
+First  Exercise: Deadlift      || 3 sets of 8 reps.
+Second Exercise: Bench Press   || 3 sets of 8 reps.
+Third  Exercise: Barbell Row   || 3 sets of 8 reps.
+Fourth Exercise: Barbell squat || 3 sets of 8 reps.
+Fifth  Exercise: Shoulder press|| 3 sets of 8 reps.
+Sixth  Exercise: Biceps curl and triceps extension || 3 sets of 8 reps for each muscle.
+
+Total calories burned: 325cal

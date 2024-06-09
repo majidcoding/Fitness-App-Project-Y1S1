@@ -1,0 +1,16 @@
+Meal Plan
+-------------------------------------------------------------------------------------------------------------------
+Choose 1 meal for each mealtime intervals
+
+Breakfast: sandwich  OR 1 cup of oats ||OR|| 2 bananas 	
+
+Lunch: chicken rice with veggie and mineral water ||OR|| rice with fish(boiled/grilled),veggie and mineral water  
+
+Dinner: rice with chicken(boiled/grilled),veggie and mineral water ||OR|| rice with fish(boiled/grilled),veggie and mineral water  
+
+Supper: wholemeal bread and low fat milk ||OR|| any fruits 
+
+
+Total Calories : Between 1500-2000
+
+*These are recommendations based on Pinggan Sihat Malaysia
